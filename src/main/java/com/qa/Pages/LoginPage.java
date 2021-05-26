@@ -6,5 +6,8 @@ public class LoginPage {
 	{
 		System.out.println("Login.Pages.Start");
 	}
-	
+	public void Set()
+	{
+		System.out.println("Login.Pages.Set");
+	}
 }
