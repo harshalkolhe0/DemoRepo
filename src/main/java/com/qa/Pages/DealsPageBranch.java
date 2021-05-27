@@ -5,7 +5,7 @@ public class DealsPageBranch {
 	int a;
 	public DealsPageBranch()
 	{
-		int c=10+330;
+		int b=10;
 	}
 	
 }
